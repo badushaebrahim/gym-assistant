@@ -1,6 +1,6 @@
-# gym-assistant
-install ""python ,pip"
-then run "pip intall mediapipe"
-          "pip install opencv-python"
-   and just "py Aitrainer.py"
+# gym-assistant<br>
+install ""python ,pip"<br>
+then run "pip intall mediapipe"<br>
+          "pip install opencv-python"<br>
+   and just "py Aitrainer.py"<br>
 
